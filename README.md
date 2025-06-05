@@ -8,17 +8,17 @@ This project contains various image processing implementations using Python and 
 
 ```
 .
-├── grabcut.py          # GrabCut algorithm implementation
-├── segmentations.py    # Image segmentation techniques
-├── cogiananh.py       # Image processing utilities
-├── kmeans.py          # K-means clustering for image segmentation
-├── lpb.py             # Local Binary Pattern implementation
-├── knn.py             # K-Nearest Neighbors implementation
-├── requirements.txt   # Project dependencies
+├── [grabcut.py](grabcut.py)          # GrabCut algorithm implementation
+├── [segmentations.py](segmentations.py)    # Image segmentation techniques
+├── [cogiananh.py](cogiananh.py)       # Image processing utilities
+├── [kmeans.py](kmeans.py)          # K-means clustering for image segmentation
+├── [lpb.py](lpb.py)             # Local Binary Pattern implementation
+├── [knn.py](knn.py)             # K-Nearest Neighbors implementation
+├── [requirements.txt](requirements.txt)   # Project dependencies
 └── images/           # Sample images
-    ├── anhdentrang.JPG
-    ├── coin.jpg
-    └── LDN00109.jpg
+    ├── [anhdentrang.JPG](anhdentrang.JPG)
+    ├── [coin.jpg](coin.jpg)
+    └── [LDN00109.jpg](LDN00109.jpg)
 ```
 
 ### Requirements
@@ -33,12 +33,12 @@ pip install -r requirements.txt
 
 Each Python file contains different image processing implementations:
 
-- `grabcut.py`: Interactive foreground extraction using GrabCut algorithm
-- `segmentations.py`: Various image segmentation methods
-- `cogiananh.py`: Image processing utilities and filters
-- `kmeans.py`: Image segmentation using K-means clustering
-- `lpb.py`: Local Binary Pattern feature extraction
-- `knn.py`: K-Nearest Neighbors implementation for image classification
+- [grabcut.py](grabcut.py): Interactive foreground extraction using GrabCut algorithm
+- [segmentations.py](segmentations.py): Various image segmentation methods
+- [cogiananh.py](cogiananh.py): Image processing utilities and filters
+- [kmeans.py](kmeans.py): Image segmentation using K-means clustering
+- [lpb.py](lpb.py): Local Binary Pattern feature extraction
+- [knn.py](knn.py): K-Nearest Neighbors implementation for image classification
 
 ## Tiếng Việt
 
@@ -48,17 +48,17 @@ Dự án này chứa các triển khai xử lý ảnh khác nhau sử dụng Pyt
 
 ```
 .
-├── grabcut.py          # Triển khai thuật toán GrabCut
-├── segmentations.py    # Các kỹ thuật phân đoạn ảnh
-├── cogiananh.py       # Các tiện ích xử lý ảnh
-├── kmeans.py          # Phân đoạn ảnh sử dụng K-means
-├── lpb.py             # Triển khai Local Binary Pattern
-├── knn.py             # Triển khai K-Nearest Neighbors
-├── requirements.txt   # Các thư viện cần thiết
+├── [grabcut.py](grabcut.py)          # Triển khai thuật toán GrabCut
+├── [segmentations.py](segmentations.py)    # Các kỹ thuật phân đoạn ảnh
+├── [cogiananh.py](cogiananh.py)       # Các tiện ích xử lý ảnh
+├── [kmeans.py](kmeans.py)          # Phân đoạn ảnh sử dụng K-means
+├── [lpb.py](lpb.py)             # Triển khai Local Binary Pattern
+├── [knn.py](knn.py)             # Triển khai K-Nearest Neighbors
+├── [requirements.txt](requirements.txt)   # Các thư viện cần thiết
 └── images/           # Ảnh mẫu
-    ├── anhdentrang.JPG
-    ├── coin.jpg
-    └── LDN00109.jpg
+    ├── [anhdentrang.JPG](anhdentrang.JPG)
+    ├── [coin.jpg](coin.jpg)
+    └── [LDN00109.jpg](LDN00109.jpg)
 ```
 
 ### Yêu cầu
@@ -73,9 +73,9 @@ pip install -r requirements.txt
 
 Mỗi file Python chứa các triển khai xử lý ảnh khác nhau:
 
-- `grabcut.py`: Trích xuất đối tượng tương tác sử dụng thuật toán GrabCut
-- `segmentations.py`: Các phương pháp phân đoạn ảnh
-- `cogiananh.py`: Các tiện ích và bộ lọc xử lý ảnh
-- `kmeans.py`: Phân đoạn ảnh sử dụng K-means
-- `lpb.py`: Trích xuất đặc trưng Local Binary Pattern
-- `knn.py`: Triển khai K-Nearest Neighbors cho phân loại ảnh 
+- [grabcut.py](grabcut.py): Trích xuất đối tượng tương tác sử dụng thuật toán GrabCut
+- [segmentations.py](segmentations.py): Các phương pháp phân đoạn ảnh
+- [cogiananh.py](cogiananh.py): Các tiện ích và bộ lọc xử lý ảnh
+- [kmeans.py](kmeans.py): Phân đoạn ảnh sử dụng K-means
+- [lpb.py](lpb.py): Trích xuất đặc trưng Local Binary Pattern
+- [knn.py](knn.py): Triển khai K-Nearest Neighbors cho phân loại ảnh 
