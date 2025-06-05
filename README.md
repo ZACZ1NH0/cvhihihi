@@ -15,10 +15,10 @@ This project contains various image processing implementations using Python and 
 ├── [lpb.py](lpb.py)             # Local Binary Pattern implementation
 ├── [knn.py](knn.py)             # K-Nearest Neighbors implementation
 ├── [requirements.txt](requirements.txt)   # Project dependencies
-└── images/           # Sample images
-    ├── [anhdentrang.JPG](anhdentrang.JPG)
-    ├── [coin.jpg](coin.jpg)
-    └── [LDN00109.jpg](LDN00109.jpg)
+├── [.gitignore](.gitignore)      # Git ignore file
+├── [anhdentrang.JPG](anhdentrang.JPG)    # Sample image
+├── [coin.jpg](coin.jpg)          # Sample image
+└── [LDN00109.jpg](LDN00109.jpg)  # Sample image
 ```
 
 ### Requirements
@@ -55,10 +55,10 @@ Dự án này chứa các triển khai xử lý ảnh khác nhau sử dụng Pyt
 ├── [lpb.py](lpb.py)             # Triển khai Local Binary Pattern
 ├── [knn.py](knn.py)             # Triển khai K-Nearest Neighbors
 ├── [requirements.txt](requirements.txt)   # Các thư viện cần thiết
-└── images/           # Ảnh mẫu
-    ├── [anhdentrang.JPG](anhdentrang.JPG)
-    ├── [coin.jpg](coin.jpg)
-    └── [LDN00109.jpg](LDN00109.jpg)
+├── [.gitignore](.gitignore)      # File cấu hình Git
+├── [anhdentrang.JPG](anhdentrang.JPG)    # Ảnh mẫu
+├── [coin.jpg](coin.jpg)          # Ảnh mẫu
+└── [LDN00109.jpg](LDN00109.jpg)  # Ảnh mẫu
 ```
 
 ### Yêu cầu
