@@ -12,7 +12,7 @@ Each Python file contains different image processing implementations:
 - [knn.py](knn.py): K-Nearest Neighbors implementation for image classification
 
 
-pip install numpy
-pip install opencv-python
-pip install matplotlib
-pip install scikit-learn
+- pip install numpy
+- pip install opencv-python
+- pip install matplotlib
+- pip install scikit-learn
