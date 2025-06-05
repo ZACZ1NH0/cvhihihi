@@ -10,8 +10,8 @@ Each Python file contains different image processing implementations:
 - [kmeans.py](kmeans.py): Image segmentation using K-means clustering
 - [lpb.py](lpb.py): Local Binary Pattern feature extraction
 - [knn.py](knn.py): K-Nearest Neighbors implementation for image classification
-- (tichchap.py)
-- (buoi1.py)
+- [tichchap.py](tichchap.py)
+- [buoi1.py](buoi1.py)
 
 - pip install numpy
 - pip install opencv-python
